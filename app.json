@@ -30,7 +30,7 @@
     },
     "BOT_NAME": {
       "description": "You must give a name for your bot",
-      "value": "",
+      "value": "MÅX",
       "required": false
     },
     "TIMEZONE": {
@@ -45,12 +45,12 @@
     },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "ALPHA;;;H4sIAAAAAAAAA5VU25KiSBD9l3ptYwS5E9ERgwiKiiCCIhv7UEKBpdyEQoUJ/30Du3t7ImZ3tpenIikyzzl5Mn+AvMA1WqAWyD9AWeErJKg/krZEQAbjJo5RBQYgggQCGWQ6tR+FxlK5K0523UUuoiZ1vHTFrd7t6mY2t8kiWEfOYue9gscAlM0hxeFvElIclOZ+iNI0zEi+softgdxTW4uDoh67J7iDjlPaMfJz8RU8+owQVzhPtPKIMlTBdIFaG+Lqa/CtWZjO95Dhxe1KLDR6ve7IdBF7U63UmxrNlhrC/oX1rLP5NfgXHJk85xT6y+4yUfeWyXaZUO2v0cggrsTPaB++HMzSu52pN/g1TnIUGRHKCSbtl3XX5k03afQVOoSnrS0m/nW02gUnYYvGyYyhlILJscEpJ5VOvga8to4sMRck9V3Xz6+BtL1dGoHphIK+GixxQ3sZoomqYlX5GbhdfXjl/H90H02N45ANotgkF32nUdda3QzXhXRRRcriW+bSNqJt3a6h/kXd6brhMNLwxMFHDS29SafXLJfwbJlkUtB1xlyn2Ntm56veJ3xImup3KCtGWvAokCiE3WF8LGFyodI2p1c372Da/Eqlk5exipDKbYaX7B4Mg+Vptyms+5YLVs6yCSxpdBI31q6oF5bk+7qzn5zWr09GZ9QaEZDpxwBUKME1qSDBRd7HRsxoAGB03aCwQuQpL8huB1tIRtO7ZU6sZJYXetdQvplYXDguKSc+8GduLyjicXp7BQNQVkWI6hpFM1yTompNVNcwQTWQ/3h2qiddoawgaI6jvh8cKzCiwLA0w36vv92OkNSwLL/liIABiKsiMxGQSdWgAXj+wDEMpWu8KlE6r9AUJYjcSKV1heEYVp2Mxj3F7K2oizNUE5iVQKYFtr/IitzjzwHI0Z28+adnzdADEOOqJl7elGkBow9zfXyEYVg0Odm0eaj2B1QBmfoMI0JwntQ9syaHVXjEV6T2PIAcw7RGfwuNKhR9cHlfHmoR9f0XxsxUUFQO9Nj7RL9oI3O/qpM+b9ESz7G8wDMjihcZSea+9/HH3/j6dBEiEKc1kIFqnJzmYGraAnGNqU2nipEoaqKATz4f/nzr/yzx78c03lCpuwrrzppPg60zXUzE63C3Um4jY+hYm601t/rx/DUJkIEzhpkk3laefXBaxo20qYDLuOBn7YaDVHJecuvsRK+9Q95dwmg57sqt0ByPR+V0Y+7Ez6LEraXhZC4Inn3iF+t0Y4jj5LWvFqErDtHPxY7ibNlJXoVYj+PdJC4OCNqGRcfthKJoVpRmXPey1bjpeukdWMUXg/Zq1jYVTPUZZl/We2FzWr103F3aDKPLQogpJ0zeJ+c5uen7xsTvnsbP1xij5wLKYd+//+zcG+7eX9Rj8FOK9432L1th7LC6uA98isy9zl+aHXayrefgZLgc0qe1ucI25Z5TF7tJAh690csUkrioMiADmEdVgSMwAFXR9IY18rj4TTFVoYzxO/EU1kT5HIJ/mCtefLtlV0U5g/URyMDenblxb+hWKcsNgeRjpIDSP/NVBB5/AbMRy3v1BwAA",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Insert your name here",
-      "value": "",
+      "value": "Max",
       "required": false
     },
     "URL": {
@@ -60,7 +60,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '2547222222233')",
-      "value": "",
+      "value": "+254738734134",
       "required": false
     }
   },
